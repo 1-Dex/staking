@@ -46,7 +46,3 @@ ZetaChain is a foundational, public blockchain designed to support generic smart
 ## License and Disclaimer
 
 Please review the license before using this code. Use it at your own risk. The authors are not responsible for any loss or damage.
-
-```
-
-```
